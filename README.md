@@ -20,11 +20,10 @@ Meu entusiasmo por desafios lógicos e otimização computacional levou eu e min
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"       title="Java"        alt="Logo Java"          width="30" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"            title="Spring"      alt="Logo Spring"        width="30" style="padding-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"    title="PostgreSQL"  alt="Logo PostgreSQL"    width="30" style="padding-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"            title="Docker"      alt="Logo Docker"        width="30" style="padding-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"                  title="Git"         alt="Logo Git"           width="30" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"            title="Python"      alt="Logo Python"        width="30" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"    title="TensorFlow"  alt="Logo TensorFlow"    width="30" style="padding-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"            title="Docker"      alt="Logo Docker"        width="30" style="padding-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"                  title="Git"         alt="Logo Git"           width="30" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"              title="React"       alt="Logo React"         width="30" style="padding-right:10px;"/>
 </p>
 <br clear="left"/>
